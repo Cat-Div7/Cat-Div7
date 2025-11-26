@@ -2,12 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cat-Div7&label=Profile%20views&color=0e75b6&style=flat" alt="Cat-Div7-Count" /> </p>
 
 ```css
-┌[none@git]-(~)
+┌[cat@git]-(~)
 └> whoami
 ```
 
  ```css
-  none@GitHub
+  cat@GitHub
   -----------------------------------------------------------------------
   🎫 Name: Omar
   💬 Intrests: ["Frontend", "Backend", "Linux", "Hacking"]
