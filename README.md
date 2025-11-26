@@ -10,7 +10,7 @@
   none@GitHub
   -----------------------------------------------------------------------
   🎫 Name: Omar
-  💬 Intrests: ["Backend", "Linux", "Hacking", "Frontend"]
+  💬 Intrests: ["Frontend", "Backend", "Linux", "Hacking"]
   🧑‍💻 Languages: ["TS/JS", "Python", "Bash"]
   🚀 Technologies: ["Git", "Vim/Neovim"]
   ⚙️ OS: Archlinux - Ubuntu
