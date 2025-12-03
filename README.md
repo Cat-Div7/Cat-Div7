@@ -9,10 +9,13 @@
  ```css
   cat@GitHub
   -----------------------------------------------------------------------
-  🎫 Name: Omar
-  💬 Intrests: ["Frontend", "Backend", "Linux", "Hacking"]
-  🧑‍💻 Languages: ["TS/JS", "Python", "Bash"]
-  🚀 Technologies: ["Git", "Vim/Neovim"]
-  ⚙️ OS: Archlinux - Ubuntu
+  Name: Omar
+  Intrests: ["Frontend", "Backend", "Linux", "Hacking"]
+  Frameworks: ["React", "Tailwind", "Bootstrap"]
+  UI Libraries: ["Radix UI", "Framer Motion"]
+  Tools: ["Redux Toolkit"]
+  Languages: ["TS/JS", "Python", "Bash"]
+  Technologies: ["Git/Github", "Vim/Neovim"]
+  OS: Archlinux - Ubuntu
   ```
 
