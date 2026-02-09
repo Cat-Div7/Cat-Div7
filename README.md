@@ -11,7 +11,7 @@
   -----------------------------------------------------------------------
   Name: Omar
   Intrests: ["Frontend", "Backend", "Linux", "Hacking"]
-  Frameworks: ["React", "Tailwind", "Bootstrap"]
+  Frameworks & Libraries: ["React", "Tailwind", "Bootstrap"]
   UI Libraries: ["Radix UI", "Framer Motion", "Material UI"]
   Tools: ["Redux Toolkit"]
   Languages: ["TS/JS", "Python", "Bash"]
