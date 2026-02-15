@@ -1,4 +1,4 @@
-<h1>You found me <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" width="30"/> </h1>
+<h1>You found me <!-- <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif?raw=true" width="30"/> --> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cat-Div7&label=Profile%20views&color=0e75b6&style=flat" alt="Cat-Div7-Count" /> </p>
 
 ```css
