@@ -1,5 +1,5 @@
 <h1>You found me</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cat-Div7&label=views&color=0e75b6&style=flat" alt="Cat-Div7-Count" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cat-Div7&label=Views&color=0e75b6&style=flat" alt="Cat-Div7-Count" /> </p>
 
 ```css
 ┌[cat@git]-(~)
