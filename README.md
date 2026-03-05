@@ -10,7 +10,7 @@
   cat@GitHub
   -----------------------------------------------------------------------
   Name: Omar
-  Intrests: ["Frontend", "Backend", "Linux", "Hacking"]
+  Intrests: ["Frontend", "Backend", "Linux"]
   Frameworks & Libraries: ["React", "Tailwind", "Bootstrap"]
   UI Libraries: ["Radix UI", "Framer Motion", "Material UI"]
   Tools: ["Redux Toolkit"]
