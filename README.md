@@ -34,3 +34,26 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Github Stats -->
+      <td valign="center">
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api?username=Cat-Div7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+        </a>
+      </td>
+      <!-- Most Used Languages -->
+      <td valign="center">
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cat-Div7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
