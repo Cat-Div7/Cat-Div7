@@ -57,3 +57,9 @@
   </table>
 </div>
 
+---
+
+<!-- Github Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cat-Div7&theme=github-dark&hide_border=true&area=true" />
+</div>
