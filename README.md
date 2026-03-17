@@ -51,7 +51,7 @@
       <td valign="center">
         <a href="#">
          <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cat-Div7&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800&hide=html,css" /> -->
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cat-Div7&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cat-Div7&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800&hide=css" />
         </a>
       </td>
     </tr>
