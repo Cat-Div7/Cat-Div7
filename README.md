@@ -67,3 +67,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cat-Div7&theme=github-dark&hide_border=true&area=true" />
 </div>
+
+<!-- Sname Graph Animation -->
+![snake](https://raw.githubusercontent.com/Cat-Div7/Cat-Div7/output/github-contribution-grid-snake.svg)
