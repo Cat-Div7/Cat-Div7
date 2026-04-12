@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omar 👋</h1>
+<h1>Hi there!</h1>
 
 <!--
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cat-Div7)
